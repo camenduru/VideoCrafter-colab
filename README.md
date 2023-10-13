@@ -17,8 +17,8 @@ https://github.com/AILab-CVC/VideoCrafter
 https://arxiv.org/abs/2211.13221
 
 ## Model
-📦Image2Video: https://huggingface.co/VideoCrafter/Image2Video-512-v1.0/tree/main <br />
-📦Text2Video: https://huggingface.co/VideoCrafter/Text2Video-1024-v1.0/tree/main <br />
+https://huggingface.co/VideoCrafter/Image2Video-512-v1.0/tree/main <br />
+https://huggingface.co/VideoCrafter/Text2Video-1024-v1.0/tree/main <br />
 
 ## Output
 
