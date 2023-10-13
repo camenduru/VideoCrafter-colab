@@ -9,7 +9,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/VideoCrafter-colab/blob/main/VideoCrafter_Text2Video_colab.ipynb) | VideoCrafter_Text2Video_colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/VideoCrafter-colab/blob/main/VideoCrafter_Image2Video_colab.ipynb) | VideoCrafter_Image2Video_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/VideoCrafter-colab/blob/main/VideoCrafter_Image2Video_colab.ipynb) | VideoCrafter_Image2Video_colab (Pro Colab 😭)
 
 ## Tutorial
 ![Screenshot 2023-10-13 161902](https://github.com/camenduru/VideoCrafter-colab/assets/54370274/a8d4db1a-5e08-4125-b293-ce18f52678a0)
