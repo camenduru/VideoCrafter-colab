@@ -8,7 +8,8 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/VideoCrafter-colab/blob/main/VideoCrafter_colab.ipynb) | VideoCrafter_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/VideoCrafter-colab/blob/main/VideoCrafter_Text2Video_colab.ipynb) | VideoCrafter_Text2Video_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/VideoCrafter-colab/blob/main/VideoCrafter_Image2Video_colab.ipynb) | VideoCrafter_Image2Video_colab
 
 ## Main Repo
 https://github.com/AILab-CVC/VideoCrafter
