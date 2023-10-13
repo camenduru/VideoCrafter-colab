@@ -14,10 +14,10 @@
 https://github.com/AILab-CVC/VideoCrafter
 
 ## Paper
-https://arxiv.org/abs/2211.13221
+https://arxiv.org/abs/2211.13221 (Base Model)
 
 ## Page
-https://yingqinghe.github.io/LVDM/
+https://yingqinghe.github.io/LVDM/ (Base Model)
 
 ## Model
 https://huggingface.co/VideoCrafter/Image2Video-512-v1.0/tree/main <br />
