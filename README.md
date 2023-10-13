@@ -16,6 +16,9 @@ https://github.com/AILab-CVC/VideoCrafter
 ## Paper
 https://arxiv.org/abs/2211.13221
 
+## Page
+https://yingqinghe.github.io/LVDM/
+
 ## Model
 https://huggingface.co/VideoCrafter/Image2Video-512-v1.0/tree/main <br />
 https://huggingface.co/VideoCrafter/Text2Video-1024-v1.0/tree/main <br />
