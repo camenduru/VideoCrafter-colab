@@ -17,3 +17,7 @@ https://github.com/AILab-CVC/VideoCrafter
 https://arxiv.org/abs/2211.13221
 
 ## Output
+
+prompt: A tiger walks in the forest, photorealistic, 4k, high definition
+
+https://github.com/camenduru/VideoCrafter-colab/assets/54370274/6f491696-7b27-460c-876a-36d2465b7aa9
