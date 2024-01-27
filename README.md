@@ -31,6 +31,11 @@ https://huggingface.co/VideoCrafter/Text2Video-1024-v1.0/tree/main <br />
 
 ## Output
 
-prompt: A tiger walks in the forest, photorealistic, 4k, high definition
+(VideoCrafter2) prompt: an elephant is walking under the sea, 4K, high definition
+
+https://github.com/camenduru/VideoCrafter-colab/assets/54370274/39889fe1-2202-422d-a7fd-5cdf45ecd368
+
+
+(VideoCrafter1) prompt: A tiger walks in the forest, photorealistic, 4k, high definition
 
 https://github.com/camenduru/VideoCrafter-colab/assets/54370274/6f491696-7b27-460c-876a-36d2465b7aa9
