@@ -19,6 +19,7 @@ https://github.com/AILab-CVC/VideoCrafter <br />
 
 ## Paper
 https://arxiv.org/abs/2401.09047 (VideoCrafter2) <br />
+https://arxiv.org/abs/2310.19512 (VideoCrafter1) <br />
 https://arxiv.org/abs/2211.13221 (Base Model) <br />
 
 ## Page
