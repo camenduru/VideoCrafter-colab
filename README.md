@@ -4,12 +4,13 @@
 
 # 🚦 WIP 🚦
 
-## 🦒 Colab
+### 🍊 Jupyter Notebook
 
-| Colab | Info
+| Notebook | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/VideoCrafter-colab/blob/main/VideoCrafter_Text2Video_colab.ipynb) | VideoCrafter_Text2Video_colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/VideoCrafter-colab/blob/main/VideoCrafter_Image2Video_colab.ipynb) | VideoCrafter_Image2Video_colab (Pro Colab High-RAM 😐)
+[![open_in_kaggle_small](https://user-images.githubusercontent.com/54370274/228924833-17316feb-d0fe-4249-90ba-682930ba11e5.svg)](https://www.kaggle.com/camenduru/videocrafter2) | videocrafter2_jupyter (Free Kaggle)
 
 ## Tutorial
 ![Screenshot 2023-10-13 161902](https://github.com/camenduru/VideoCrafter-colab/assets/54370274/a8d4db1a-5e08-4125-b293-ce18f52678a0)
