@@ -15,13 +15,15 @@
 ![Screenshot 2023-10-13 161902](https://github.com/camenduru/VideoCrafter-colab/assets/54370274/a8d4db1a-5e08-4125-b293-ce18f52678a0)
 
 ## Main Repo
-https://github.com/AILab-CVC/VideoCrafter
+https://github.com/AILab-CVC/VideoCrafter <br />
 
 ## Paper
-https://arxiv.org/abs/2211.13221 (Base Model)
+https://arxiv.org/abs/2401.09047 (VideoCrafter2) <br />
+https://arxiv.org/abs/2211.13221 (Base Model) <br />
 
 ## Page
-https://yingqinghe.github.io/LVDM/ (Base Model)
+https://ailab-cvc.github.io/videocrafter2 <br />
+https://yingqinghe.github.io/LVDM/ (Base Model) <br />
 
 ## Model
 https://huggingface.co/VideoCrafter/Image2Video-512-v1.0/tree/main <br />
